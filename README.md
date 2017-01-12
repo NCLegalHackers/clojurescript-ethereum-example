@@ -1,8 +1,10 @@
 # Clojure Ethereum Example
 
-## TriCLojure Meetup Code
+## TriClojure Meetup Code
 
-*This Code is a rewrite of the original code used as an example Clojurescript Ethereum App by Matus Lestan in the Medioum post and repo below. This App is for Demonstration purposes and the original has been modified to use Boot, Hoplon and Hoplon AOM.
+
+*This Code is a rewrite of the original code used as an example Clojurescript Ethereum App by Matus Lestan in the Medium post and repo below. This App is for Demonstration purposes and the original has been modified to use Boot, Hoplon and Hoplon AOM.
+
 
 
 This is the source code for the original  tutorials:

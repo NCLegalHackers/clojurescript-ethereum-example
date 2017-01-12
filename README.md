@@ -1,6 +1,11 @@
 # Clojure Ethereum Example
 
-This is source code for tutorials:
+## TriCLojure Meetup Code
+
+*This Code is a rewrite of the original code used as an example Clojurescript Ethereum App by Matus Lestan in the Medioum post and repo below. This App is for Demonstration purposes and the original has been modified to use Boot, Hoplon and Hoplon AOM.
+
+
+This is the source code for the original  tutorials:
  * [How to create decentralised apps with Clojurescript re-frame and Ethereum](https://medium.com/@matus.lestan/how-to-create-decentralised-apps-with-clojurescript-re-frame-and-ethereum-81de24d72ff5#.nvfyq27lb)
  * [How to deploy Clojurescript app into distributed storage IPFS](https://medium.com/@matus.lestan/how-to-deploy-clojurescript-app-into-distributed-storage-ipfs-e9d02cdfbc20#.ax3ra84bz)
 
